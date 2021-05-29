@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Parcela Catastral de la D.G. del Catastro.-->
+<!--La precisión es la que corresponde nominalmente a la escala de captura de la cartografía-->
+<FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cp="http://inspire.ec.europa.eu/schemas/cp/4.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xsi:schemaLocation="http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd http://inspire.ec.europa.eu/schemas/cp/4.0 http://inspire.ec.europa.eu/schemas/cp/4.0/CadastralParcels.xsd" xmlns="http://www.opengis.net/wfs/2.0" timeStamp="2021-05-29T22:59:07" numberMatched="1" numberReturned="1">
+<member>
+<cp:CadastralParcel gml:id="ES.SDGC.CP.9673202CF3597D">
+<cp:areaValue uom="m2">56053</cp:areaValue>
+<cp:beginLifespanVersion>2017-11-10T00:00:00</cp:beginLifespanVersion>
+<cp:endLifespanVersion xsi:nil="true" nilReason="http://inspire.ec.europa.eu/codelist/VoidReasonValue/Unpopulated"></cp:endLifespanVersion>
+<cp:geometry>
+<gml:MultiSurface gml:id="MultiSurface_ES.SDGC.CP.9673202CF3597D" srsName="http://www.opengis.net/def/crs/EPSG/0/25831">
+  <gml:surfaceMember>
+  <gml:Surface gml:id="Surface_ES.SDGC.CP.9673202CF3597D.1" srsName="http://www.opengis.net/def/crs/EPSG/0/25831">
+  <gml:patches>
+  <gml:PolygonPatch>
+  <gml:exterior>
+      <gml:LinearRing>
+          <gml:posList srsDimension="2" count="111">339385.26 4557204.88 339389.9 4557211.74 339396 4557219.49 339405.14 4557233.86 339407.07 4557236.89 339412.61 4557244.35 339417.61 4557250.97 339422.5 4557258.04 339426.61 4557263.52 339429.53 4557267.23 339431.45 4557265.19 339432.87 4557263.79 339434.94 4557261.55 339437.67 4557257.9 339440.72 4557254.25 339442.36 4557251.44 339443.89 4557247.66 339446.28 4557242.87 339451.87 4557236.31 339458.44 4557226.93 339464.52 4557220.05 339468.9 4557214.73 339472.06 4557212.23 339475.46 4557210.36 339479.11 4557208.17 339483.25 4557205.04 339486.65 4557201.29 339492.49 4557199.1 339496.14 4557195.97 339500.51 4557195.2 339508.3 4557195.51 339516.57 4557195.82 339524.1 4557196.45 339530.18 4557196.76 339535.53 4557198.01 339539.91 4557200.2 339545.75 4557202.07 339551.58 4557204.58 339557.66 4557205.83 339565.93 4557206.76 339571.04 4557207.7 339579.79 4557207.39 339587.09 4557207.08 339591.95 4557206.76 339597.3 4557205.51 339602.17 4557202.38 339607.03 4557197.38 339610.44 4557193.63 339614.09 4557188.31 339616.03 4557182.68 339617.74 4557174.24 339619.44 4557170.49 339624.54 4557162.82 339627.22 4557159.07 339631.11 4557155.62 339634.76 4557152.18 339641.81 4557143.74 339650.32 4557139.05 339655.92 4557134.99 339668.81 4557126.7 339673.43 4557122.32 339676.1 4557119.5 339681.45 4557112.63 339687.77 4557106.06 339694.83 4557095.12 339700.42 4557088.24 339705.76 4557082.76 339710.62 4557077.13 339714.28 4557069.63 339716.94 4557058.37 339720.58 4557047.13 339721.55 4557044.15 339720.82 4557036.33 339721.8 4557028.52 339722.28 4557022.26 339723.49 4557012.1 339723.98 4557008.66 339725.49 4557003.78 339726.27 4557001.28 339727.38 4556997.71 339731.52 4556987.4 339737.75 4556974.1 339745.48 4556968.68 339744.09 4556967.11 339743.02 4556965.55 339669.72 4556879.54 339653.37 4556899.89 339615.65 4556945.13 339609.36 4556954.04 339606.42 4556958.13 339600.45 4556965.33 339579 4556989.56 339572.7 4556997.41 339554.48 4557020.22 339529.04 4557047.14 339505.31 4557072.25 339482.97 4557093.2 339455.75 4557117.24 339440.55 4557133.84 339433.35 4557140.71 339420.28 4557152.23 339405.13 4557164.64 339398.09 4557170.41 339394.5 4557174.09 339389.35 4557177.85 339384.69 4557181.04 339372.92 4557192.32 339367.29 4557198.71 339366.14 4557199.63 339379.84 4557193.97 339385.26 4557204.88</gml:posList>
+      </gml:LinearRing>
+  </gml:exterior>
+  </gml:PolygonPatch>
+  </gml:patches>
+  </gml:Surface>
+  </gml:surfaceMember>
+</gml:MultiSurface>
+</cp:geometry>
+<cp:inspireId>
+<Identifier xmlns="http://inspire.ec.europa.eu/schemas/base/3.3">
+  <localId>9673202CF3597D</localId>
+  <namespace>ES.SDGC.CP</namespace>
+</Identifier>
+</cp:inspireId>
+<cp:label>02</cp:label>
+<cp:nationalCadastralReference>9673202CF3597D</cp:nationalCadastralReference>
+<cp:referencePoint>
+<gml:Point gml:id="ReferencePoint_ES.SDGC.CP.9673202CF3597D" srsName="http://www.opengis.net/def/crs/EPSG/0/25831">
+  <gml:pos>339618.15 4557169.04</gml:pos>
+</gml:Point>
+</cp:referencePoint>
+</cp:CadastralParcel>
+</member>
+</FeatureCollection>
